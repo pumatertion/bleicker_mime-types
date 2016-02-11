@@ -1,7 +1,7 @@
 {
 	"name"        : "bleicker/mime-type",
 	"description" : "MimeType Package",
-	"version"     : "1.0.0",
+	"version"     : "1.0.1",
 	"require"     : {
 	},
 	"require-dev" : {
@@ -14,7 +14,7 @@
 	},
 	"autoload-dev": {
 		"psr-4": {
-			"Bleicker\\MimeType\\Tests\\": "Classes"
+			"Bleicker\\MimeType\\Tests\\": "Tests"
 		}
 	}
 }
